@@ -1,2 +1,3 @@
 # Cogent-Web-Services-Front-end
 Front end e-commerce site
+Created a sample front end e-commerce site with login,register,forgot password,homepage,products,product description,contacts....
